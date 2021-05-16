@@ -3,3 +3,5 @@ main:
     url: /team/
   - title: "Apps"
     url: /apps/
+  - title: "개인정보 처리방침"
+    url: /privacy/
