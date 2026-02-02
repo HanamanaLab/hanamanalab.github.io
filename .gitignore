@@ -1,0 +1,19 @@
+# --- Project Folders to Ignore ---
+smart/
+wishky_note/
+TodayExam/
+
+# --- Browser/OS Specific ---
+.DS_Store
+Thumbs.db
+node_modules/
+dist/
+build/
+.env
+.venv
+.idea/
+.vscode/
+.agent/
+.agents/
+.cursor/
+.uv_cache/
